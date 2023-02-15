@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-02-15T02:31:40.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="I-Nyzn-6sz-uQ0vDzCMR" version="20.8.20" type="github">
+  <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
+    <mxGraphModel dx="2437" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-154" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-500" y="180" width="1010" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-116" value="ShopInformation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#003366;align=center;verticalAlign=middle;fontColor=#003366;shadow=1;flipH=1;flipV=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="483" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-117" value="ShopCoopInformation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#003366;fontColor=#003366;shadow=1;flipH=1;flipV=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="483" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-121" value="ShopCoopId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#003366;fontColor=#003366;shadow=1;flipH=1;flipV=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="483" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-122" value="ShopCoopTmnId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#003366;fontColor=#003366;shadow=1;flipH=1;flipV=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="483" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-124" target="iPtnCmBG9jLl53JPYMb8-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-124" target="iPtnCmBG9jLl53JPYMb8-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-124" target="iPtnCmBG9jLl53JPYMb8-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#003366;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-124" target="iPtnCmBG9jLl53JPYMb8-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-124" value="Shop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#003366;fontColor=#003366;shadow=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="210" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-134" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=#003366;dashed=1;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-131" target="iPtnCmBG9jLl53JPYMb8-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-143" value="" style="group" vertex="1" connectable="0" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="670" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-131" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;컴포넌트 렌더링되기 전 selectShpInfo 실행&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;accntLv = 4, useYn = Y 일 때&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/font&gt;LinkedData (composable) catId, shpNm 업뎃*&amp;nbsp;&lt;i style=&quot;background-color: initial; border-color: var(--border-color); font-size: 12px;&quot;&gt;LinkedData&amp;nbsp;값이 없으면 store값을 할당&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=12;fontFamily=Helvetica;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-143">
+          <mxGeometry x="10" y="10" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-142" value="1" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#474747;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-143">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-144" value="" style="group" vertex="1" connectable="0" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry y="270" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;ShopInformation에서 linkedData가 업뎃되면 selectedCatId, selectedShpNm에 할당&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;하위 컴포넌트에 Props로 전달&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=12;fontFamily=Helvetica;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-144">
+          <mxGeometry x="10" y="10" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-146" value="2" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#474747;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-144">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-147" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-145" target="iPtnCmBG9jLl53JPYMb8-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-148" value="" style="group" vertex="1" connectable="0" parent="iPtnCmBG9jLl53JPYMb8-154">
+          <mxGeometry x="660" y="270" width="350" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-149" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;SelectedCatId, SelectedShpNm watch로 감시&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;해당 데이터들이 props로 전달되면 각 컴포넌트의 Read API 호출&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=12;fontFamily=Helvetica;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-148">
+          <mxGeometry x="10" y="10" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-150" value="3" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#474747;" vertex="1" parent="iPtnCmBG9jLl53JPYMb8-148">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-151" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#171819;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-149" target="iPtnCmBG9jLl53JPYMb8-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-152" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#171819;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-149" target="iPtnCmBG9jLl53JPYMb8-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPtnCmBG9jLl53JPYMb8-153" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#171819;" edge="1" parent="iPtnCmBG9jLl53JPYMb8-154" source="iPtnCmBG9jLl53JPYMb8-149" target="iPtnCmBG9jLl53JPYMb8-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
